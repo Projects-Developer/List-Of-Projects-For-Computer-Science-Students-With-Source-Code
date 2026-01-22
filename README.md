@@ -22,27 +22,32 @@ List of projects for Computer science students Includes Source Code, PPT, Synops
 10	React Education Website Project	https://youtu.be/Klzemo208EA?si=6nuV4hyIyH-bBp-3
 
 
-### Project include:
-Synopsis
+### Project include: 
 
-PPT
+1. Synopsis
 
-Research Paper
+2. PPT
 
-Code
+3. Research Paper
 
-Explanation video
+4. Code
 
-Documents
+5. Explanation video
 
-Report
+6. Documents
+
+7. Report
 
 ### Need Code, Documents & Explanation video ? 
 
-### 📞 Contact for Project Files / Help (Available 🟢 LIVE 24×7 – LIVE Support):
+## How to Reach me :
 
-### 🌐 Website: https://www.finalproject.in/
+### Mail : vatshayan007@gmail.com 
 
-### 📲 Contact (WhatsApp, Email, Call): https://www.contactvatshayan.com
+### WhatsApp: +91 9310631437 (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-### 💻 Computer Science Projects: https://www.computer-science-project.in/
+### Website : https://www.finalproject.in/
+
+### 💻 Youtube Channel: [Link](https://www.youtube.com/@computerscienceproject)
+
+Mail/Message me for Projects Help 🙏🏻
